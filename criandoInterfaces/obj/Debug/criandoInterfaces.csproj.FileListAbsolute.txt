@@ -1,0 +1,10 @@
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\bin\Debug\criandoInterfaces.exe.config
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\bin\Debug\criandoInterfaces.exe
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\bin\Debug\criandoInterfaces.pdb
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.Form1.resources
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.Properties.Resources.resources
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.csproj.GenerateResource.cache
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.exe
+C:\Users\cicero.dlsilva\source\repos\criandoInterfaces\criandoInterfaces\obj\Debug\criandoInterfaces.pdb
